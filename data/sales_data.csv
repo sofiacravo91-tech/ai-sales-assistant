@@ -1,0 +1,8 @@
+lead_id,industry,deal_value,sales_rep,stage
+1,SaaS,15000,Ana,Closed Won
+2,Fintech,20000,Carlos,Closed Won
+3,Ecommerce,8000,Ana,Lost
+4,SaaS,12000,Pedro,Closed Won
+5,Fintech,9000,Carlos,Lost
+6,Ecommerce,7000,Ana,Closed Won
+7,SaaS,22000,Pedro,Closed Won
